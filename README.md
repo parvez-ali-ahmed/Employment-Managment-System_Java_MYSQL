@@ -1,4 +1,4 @@
-Employee Management System
+
 Overview
 This Java-based Employee Management System provides a comprehensive solution for managing employee data, admin accounts, and work schedules. The system features separate interfaces for administrators and regular users with appropriate functionality for each role.
 
